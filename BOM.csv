@@ -1,0 +1,13 @@
+Category,Component,Model / Description,Key Specs,Cost INR
+Light Engine,COB LED,Chanzon High Power LED Chip,100W 6500K 30–34V,3548
+Display,LCD Panel,Innolux N156HCA-EN1,15.6in FHD eDP,7500
+Optics,Projection Lens,GLOBALIBAY F240 Triplet,240mm focal length,3700
+Cooling,Liquid Cooler,Ant Value AV240 AIO,240mm radiator,3219
+Cooling,Fan,Noctua NF-A14 industrialPPC-2000,140mm 2000RPM,2949
+Power,Boost Converter,DC-DC Step-Up Module,12–35V up to 6A,246
+Power,Buck Converter,LM2596 Module,3A adjustable,241
+Power,SMPS,Electronic Spices SMPS,12V 10A 120W,369
+Control,LCD Controller,HDMI to eDP Board,1080p 30-pin eDP,3636
+Optics,Fresnel Lens,oddpod A3 Fresnel Sheet,2x A3 sheets,5998
+Optics,Condenser Optics,Chanzon Optical Glass,44mm 60deg,1537
+Safety,Thermal Cut-Out,KSD-9700 NC Switch,85C 250V 10A,300
