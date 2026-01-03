@@ -59,6 +59,12 @@ Stage 4: Build the Enclosure
 I'll design the enclosure after I know how airflow and temperature behave in real life
 The final design will be based on what I measure, not just what I think might happen
 
+Optical System Overview
+![Optical Train Block Diagram](design/optical_train_block_diagram.png)
+System Overview
+![System Block Diagram](design/SystemBlockDiagram.png)
+
+
 Repository Structure
 /
 ├── README.md # Project overview and system design
