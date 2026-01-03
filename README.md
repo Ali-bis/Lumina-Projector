@@ -41,7 +41,7 @@ Here's a quick rundown of what I'm looking for for each subsystem:
 (Find the full BOM and pricing info in the project documentation.)
 
 Design Freeze Status:
-The optical design, display panel, power class, thermal strategy, and power topology are all locked in. No major changes are planned prior to me physically making a prototype.
+The optical design, display panel, power class, thermal strategy, and power topology are all locked in. No major changes are planned prior to physical prototyping.
 Funding is strictly for buying parts and testing - I'm not going to waste it on fancy enclosures or consumer features.
 
 The Road Ahead
